@@ -5,15 +5,15 @@ body{
 }
 
 #teamName{
-    background-color: #38a9bd;
-    color: white;
+    background-color: #c51927;
+    color: rgb(89, 85, 44);
     font-size: 54px;
     padding: 5%;
 }
 
 footer{
-    background-color: #38a9bd;
-    color: white;
+    background-color: #862239;
+    color: rgb(255, 255, 255);
     font-size: 16px;
     padding: 2%;
 }

@@ -1,0 +1,38 @@
+{
+  "name": "Work-generator",
+  "version": "1.0.0",
+  "description": "This CLI program generates an HTML file that displays information for a software developer team based on user input.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusMoura2000/work-generator-hw10"
+  "keywords": [
+    "team",
+    "generator",
+    "cli",
+    "input",
+    "html",
+    "developer",
+    "command",
+    "node"
+  ],
+  "author": "Matheus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatheusMoura2000/work-generator-hw10"
+  },
+  "homepage": "https://github.com/MatheusMoura2000/work-generator-hw10",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
