@@ -1,5 +1,5 @@
 {
-  "name": "Work-generator",
+  "name": "Work-generator-hw10",
   "version": "1.0.0",
   "description": "This CLI program generates an HTML file that displays information for a software developer team based on user input.",
   "main": "app.js",
